@@ -1,2 +1,1 @@
-# Fast Finite Width Neural Tangent Kernel
-Anonymous code supplement for the ICLR2022 submission "Fast Finite Width Neural Tangent Kernel"
+# Fast Finite Width Neural Tangent Kernel has moved to https://github.com/google/neural-tangents
